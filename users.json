@@ -1,9 +1,7 @@
 {
-    "admin": "AFA",
-    "ahsan": "AFA",
-    "user3": "anotherpassword",
-    "user4": "password4",
-    "user5": "password5",
-    "user100": "password100",
-    "user101": "password101"
+  "users": [
+    { "username": "AFA AUDIT", "password": "AFA AUDIT" },
+    { "username": "adv waqar", "password": "adv waqar" },
+    { "username": "CLIENT_TWO", "password": "anotherPass" }
+  ]
 }
